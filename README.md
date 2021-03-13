@@ -1,11 +1,8 @@
 # PagliaroliPaglianiMangano
 
-For a better work organisation we have decide to write the Rasd&DD using GoogleDoc.
-The RASD in editor mode (the only mode to view different versions) is at the following link:
-https://docs.google.com/document/d/1e5nZ8Dn4QtAhvlNNaCXcol2GGhzVrW_-5EPWTbUcoYM/edit?usp=sharing
+In this Repo you can find our Rasd&DD of a university project about "CLup", an application that allow to book a visit to a shop.
 
-The DD in editor mode (the only mode to view different versions) is at the following link:
-https://docs.google.com/document/d/1DJKFBXxZFDY7VzNCBmIWYazU3BxDGcnNqzkqAjSIzTo/edit?usp=sharing
+For a better work organisation we have decide to write the Rasd&DD using GoogleDoc.
 
 Furthermore the file in .pdf is always update and available in this repository.
 
